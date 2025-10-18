@@ -5,6 +5,10 @@
 
 ![](./img/IMG_1.jpg)
 
+
+https://github.com/user-attachments/assets/5b19f3a5-a672-437b-8ae6-6cdaae37802a
+
+
 ## 実行環境
 - ハードウェア: Raspberry Pi 4 (4GB RAM)
 - ソフトウェア: Python 3.12.4
